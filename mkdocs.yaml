@@ -1,0 +1,41 @@
+site_name: HackTheBreak 2026
+site_url: https://armanchinai.github.io/hackthebreak2026/
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+      primary: deep purple
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+      primary: deep purple
+  features:
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.tabs.link
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+
+plugins:
+  - search
+
+nav:
+  - Introduction: index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://hackthebreak.com
