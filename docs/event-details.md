@@ -34,12 +34,13 @@ HackTheBreak kicks off on Friday evening with an opening ceremony where we'll in
 | 10:00 AM | 10:00 PM | Mentors Available |
 | 12:00 PM | 1:00 PM | Lunch Served |
 | 6:00 PM | 7:00 PM | Dinner Served |
-| 10:00 PM | 6:00 AM | Building Locks (No Re-entry) |
+| 10:00 PM | 6:00 AM | Building Locked (No Re-entry) |
 
 ### Sunday Schedule
 
 | Start Time | End Time | Description |
 |:----------:|:--------:|-------------|
+| 6:00 AM | --- | Building Unlocks |
 | 7:00 AM | 8:00 AM | Breakfast Served |
 | 10:00 AM | 11:00 AM | Mentors Available |
 | 11:00 AM | --- | Project Submission Deadline |
@@ -121,8 +122,17 @@ Please connect to the following WiFi network to access the internet during the e
 ## Emergency Contacts
 In case of a non medical emergency, please contact:
 
-- **Arman Chinai (Event Organizer):** `@armanchinai` on Discord or in person
-- **Campus Security:** 604-451-6856
+- **Arman Chinai (Event Organizer):** 
+    - Phone: 778-513-0308
+    - Discord: `@armanchinai`
+- **Bhavnoor Saroya (Event Organizer):** 
+    - Phone: 250-667-0653
+    - Discord: `@singh1`
+- **Campus Security:**
+    - Phone: 604-451-6856
+
+!!! tip "Where to Find Organizers"
+    You can always find an organizer in the main event space or at the organizer office on the second floor. If you need immediate assistance, please don't hesitate to reach out to any of the contacts above.
 
 !!! warning "For medical emergencies, please call 911 immediately."
     Do not hesitate to call emergency services if you or someone around you is in need of urgent medical attention. Your safety is our top priority.
