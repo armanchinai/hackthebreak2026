@@ -17,21 +17,26 @@ You can reach out to mentors in the following ways:
 
 ### Mentor Schedule
 We will have mentors available during the following times:
+
 - **Friday**: 7:00 PM - 9:00 PM
 - **Saturday**: 10:00 AM - 10:00 PM
 - **Sunday**: 10:00 AM - 11:00 AM
 
-### Mentor FAQ
-#### What kind of help can mentors provide?
-Mentors can help with a wide range of topics, including:
-- Brainstorming and ideation
-- Technical questions and troubleshooting
-- Guidance on project scope and features
-- Feedback on project ideas and presentations
-- Deployment and hosting advice
+!!! question "Having trouble outside of mentor hours?"
+    If you need help outside of the scheduled mentor hours, you can still ask for help in the Discord mentor channel. While the organizers will always be present and happy to help.
 
-#### Do I need to have a fully formed idea before approaching a mentor?
-Not at all! Mentors are there to help you at any stage of the project, whether you're just starting to brainstorm ideas or you're deep into development and need help with a specific issue. Don't hesitate to reach out to a mentor even if you just have a rough idea or need help getting started.
+### Mentor FAQ
+
+!!! question "What kind of help can mentors provide?"
+    Mentors can help with a wide range of topics, including:
+    - Brainstorming and ideation
+    - Technical questions and troubleshooting
+    - Guidance on project scope and features
+    - Feedback on project ideas and presentations
+    - Deployment and hosting advice
+
+!!! question "Do I need to have a fully formed idea before approaching a mentor?"
+    Not at all! Mentors are there to help you at any stage of the project, whether you're just starting to brainstorm ideas or you're deep into development and need help with a specific issue. Don't hesitate to reach out to a mentor even if you just have a rough idea or need help getting started.
 
 ---
 
@@ -40,32 +45,32 @@ In addition to mentor support, we will also be hosting workshops on various topi
 
 Below are some of the workshops we have planned for HackTheBreak 2026:
 
-### nwPlus x BCIT Computing Club - Introduction to Hackathons Workshop
+!!! example "nwPlus x BCIT Computing Club - Introduction to Hackathons Workshop"
 
-BCIT Computing Club is excited to collaborate with the creators of Western Canada's largest hackathon, UBC's nwPlus! Join us for an evening bootcamp on the full hackathon process, from creating a team to your final demo. nwPlus will be sharing tips and tricks to help ensure your first hackathon project gets you up on the main stage. 
+    BCIT Computing Club is excited to collaborate with the creators of Western Canada's largest hackathon, UBC's nwPlus! Join us for an evening bootcamp on the full hackathon process, from creating a team to your final demo. nwPlus will be sharing tips and tricks to help ensure your first hackathon project gets you up on the main stage. 
 
-- Location: SW03 - 1750
-- Date & Time: Tuesday, March 3rd @5:30-7:00PM
+    - Location: SW03 - 1750
+    - Date & Time: Tuesday, March 3rd @5:30-7:00PM
 
-### BCIT C4A x BCIT Computing Club - Introduction to Deploying Workshop
+!!! example "BCIT C4A x BCIT Computing Club - Introduction to Deploying Workshop"
 
-Built something you're proud of? Now it's time to host it. Join Computing Club's own Bhavnoor for a hands-on workshop on deploying projects using modern tools and industry-leading cloud platforms. Whether you're preparing for a hackathon or building your portfolio, you'll learn how to take your project from local development to a live, shareable product ready for judges, friends, LinkedIn, and beyond. 
+    Built something you're proud of? Now it's time to host it. Join Computing Club's own Bhavnoor for a hands-on workshop on deploying projects using modern tools and industry-leading cloud platforms. Whether you're preparing for a hackathon or building your portfolio, you'll learn how to take your project from local development to a live, shareable product ready for judges, friends, LinkedIn, and beyond. 
 
-- Location: SW01 - 1021
-- Date & Time: Tuesday, March 10th @5:30-7:00PM
+    - Location: SW01 - 1021
+    - Date & Time: Tuesday, March 10th @5:30-7:00PM
 
-### BCIT WiC X BCIT Computing Club - Introduction to Pitching and Project Ideation Workshop
+!!! example "BCIT WiC X BCIT Computing Club - Introduction to Pitching and Project Ideation Workshop"
 
-The greatest projects always start with a story. Join us for an interactive workshop on developing strong, creative project concepts and confidently presenting them in a way that leaves a lasting impression. Whether you're preparing for a hackathon, a class project, or a startup idea, you'll learn practical strategies to sharpen your ideas, structure a compelling pitch, and stand out to judges and audiences alike.
+    The greatest projects always start with a story. Join us for an interactive workshop on developing strong, creative project concepts and confidently presenting them in a way that leaves a lasting impression. Whether you're preparing for a hackathon, a class project, or a startup idea, you'll learn practical strategies to sharpen your ideas, structure a compelling pitch, and stand out to judges and audiences alike.
 
-- Location: SW01 - 1021
-- Date & Time: Thursday, March 12th @5:30-7:00PM
+    - Location: SW01 - 1021
+    - Date & Time: Thursday, March 12th @5:30-7:00PM
 
 ### Workshop FAQ
 
-#### How do I sign up for workshops?
+!!! question "How do I sign up for workshops?"
 
-Links to register for these workshops are available in the HackTheBreak Discord server.
+    Links to register for these workshops are available in the HackTheBreak Discord server.
 
-#### I can't attend the workshops in person. Will the materials be available online?
-All resources from the workshop will be shared in the HackTheBreak Discord server after the event, including recordings, slides, and any relevant links or materials.
+!!! question "I can't attend the workshops in person. Will the materials be available online?"
+    All resources from the workshop will be shared in the HackTheBreak Discord server after the event, including recordings, slides, and any relevant links or materials.

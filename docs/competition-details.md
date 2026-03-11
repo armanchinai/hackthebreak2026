@@ -38,16 +38,21 @@ Projects will be judged based on the following criteria:
 4. **Presentation**: How well does the project presentation communicate the idea, features, and impact of the project? Is it clear and engaging?
 5. **Impact**: What is the potential impact of the project? Does it have the potential to make a positive difference in the world or solve a significant problem?
 
+!!! tip "Judges"
+    Our judges are all technical professionals and BCIT alumni! They love to code, and are excited to hear about your technical solutions and architecture. Lean into the technical details of your project and be prepared to answer questions about your code, design decisions, and deployment architecture during the judging Q&A.
+
 ---
 
 ## Submission Guidelines
 
-- All projects must be submitted on **Devpost by Sunday at 11:00 AM**. Late submissions may not be considered for judging.
 - Projects should include a clear description, screenshots or demo video, and any relevant links (e.g., GitHub repository).
 - Projects must be built during the event timeframe (March 13-15, 2026).
 - Projects should not violate any laws, terms of service, or BCIT policies.
 - Plagiarism or academic misconduct will result in disqualification.
 - Projects must be appropriate for all audiences (no NSFW or offensive content).
+
+!!! warning "Project Submission Deadline"
+    All projects must be submitted on **Devpost by Sunday at 11:00 AM**. Late submissions may not be considered for judging. Consider submitting your project early if you're ready to avoid any last-minute issues!
 
 ---
 

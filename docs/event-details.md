@@ -76,6 +76,9 @@ Burnaby, BC V5G 3H2
 ![Third Floor Event Space](./resources/third-floor.png)
 - Orange: Food and lounge area
 
+!!! warning "Space Designation Subject to Change"
+    The above designations are based on our current plans for the event, but may be subject to change as we finalize logistics and setup. We will communicate any changes to the space designation in advance so you know where to go for hacking, workshops, food, and more.
+
 ---
 
 ## Team Formation
@@ -121,7 +124,8 @@ In case of a non medical emergency, please contact:
 - **Event Organizer (Arman Chinai):** `@armanchinai` on Discord or in person
 - **Campus Security:** 604-451-6856
 
-**For medical emergencies, please call 911 immediately.**
+!!! warning "For medical emergencies, please call 911 immediately."
+    Do not hesitate to call emergency services if you or someone around you is in need of urgent medical attention. Your safety is our top priority.
 
 ---
 
