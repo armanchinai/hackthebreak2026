@@ -9,12 +9,12 @@
 - **Cost:** 100% free for all participants
 
 !!! tip "First Time at a Hackathon?"
-    Don’t worry if you’ve never attended a hackathon before! Beginners are welcome, and mentors will be available throughout the event to help you get started. HTB will also have workshops covering various topics to help you learn new skills and technologies. We even have a best beginner hack prize to encourage new hackers to participate!
+    Don't worry if you've never attended a hackathon before! Beginners are welcome, and mentors will be available throughout the event to help you get started. HTB will also have workshops covering various topics to help you learn new skills and technologies. We even have a best beginner hack prize to encourage new hackers to participate!
 
 ---
 
 ## Schedule
-HackTheBreak kicks off on Friday evening with an opening ceremony where we’ll introduce the event, go over the schedule, and help you get settled in. The hacking period will run through the weekend, with mentor sessions available to support you along the way. On Sunday, we’ll have a submission deadline followed by judging and a closing ceremony where we’ll announce the winners.
+HackTheBreak kicks off on Friday evening with an opening ceremony where we'll introduce the event, go over the schedule, and help you get settled in. The hacking period will run through the weekend, with mentor sessions available to support you along the way. On Sunday, we'll have a submission deadline followed by judging and a closing ceremony where we'll announce the winners.
 
 ### Friday Schedule
 
@@ -82,7 +82,7 @@ Burnaby, BC V5G 3H2
 You can participate solo or in teams of up to 4 people (up to 5 if at least one member is a first-semester student). 
 
 !!! tip "No Team? No Problem"
-    Many participants form teams at the event. Feel free to join others or build something solo. If you’re looking for teammates, you can attend collaborative workshops, use the **team formation channel in Discord**, or join the team formation session during the opening ceremony to meet other participants looking for teammates.
+    Many participants form teams at the event. Feel free to join others or build something solo. If you're looking for teammates, you can attend collaborative workshops, use the **team formation channel in Discord**, or join the team formation session during the opening ceremony to meet other participants looking for teammates.
 
 ---
 
@@ -102,7 +102,7 @@ During check-in you will:
 !!! warning "Bring Your Student ID"
     You may be asked to present **student identification** during check-in.
 
-Going to miss check-in? Don’t worry! You can check in virtually by completing a Google Form that will be sent out to registered participants (more information on this process TBA Friday, March 13th). However, we highly encourage in-person check-in to get all the information and materials you need for the event. 
+Going to miss check-in? Don't worry! You can check in virtually by completing a Google Form that will be sent out to registered participants (more information on this process TBA Friday, March 13th). However, we highly encourage in-person check-in to get all the information and materials you need for the event. 
 
 ---
 

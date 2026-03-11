@@ -1,7 +1,7 @@
 # Rules, Guidelines, and FAQ
 
 ## Rules
-We’re excited to have you here! To ensure this event remains a safe, inclusive, and productive space for everyone, please follow the rules below:
+We're excited to have you here! To ensure this event remains a safe, inclusive, and productive space for everyone, please follow the rules below:
 
 ### Event Rules
 1. Eligibility
@@ -41,7 +41,7 @@ We’re excited to have you here! To ensure this event remains a safe, inclusive
 
 ### Discord Rules
 
-1. Follow Discord’s Community Guidelines and Terms of Service
+1. Follow Discord's Community Guidelines and Terms of Service
     - All standard Discord rules apply at all times.
 
 2. Respect Staff and Organizers
@@ -54,7 +54,7 @@ We’re excited to have you here! To ensure this event remains a safe, inclusive
     - Do not request or provide help with:
         - Illegal activities
         - Breaching terms of service
-        - Violating BCIT’s Academic Code of Conduct
+        - Violating BCIT's Academic Code of Conduct
         - Malicious or inappropriate projects
         - Graded coursework or exams
 
@@ -73,15 +73,15 @@ We’re excited to have you here! To ensure this event remains a safe, inclusive
 ---
 
 ## FAQ
-### Can I participate if I’m not a BCIT student?
+### Can I participate if I'm not a BCIT student?
 No, HackTheBreak is exclusive to BCIT students and alumni. We want to create a space for our community to come together and collaborate.
 ### Can I form a team with people from different programs or campuses?
 Yes! You can form teams with participants from any program or campus as long as they are BCIT students or alumni.
 ### Can I participate solo?
-Yes, you can participate solo if you prefer. Many participants choose to work alone, and that’s perfectly fine!
-### What if I don’t have a team?
+Yes, you can participate solo if you prefer. Many participants choose to work alone, and that's perfectly fine!
+### What if I don't have a team?
 No worries! Many participants form teams at the event. You can attend collaborative workshops, use the team formation channel in Discord, or join the team formation session during the opening ceremony to meet other participants looking for teammates.
 ### Can I use AI tools to help with my project?
 Yes, you can use AI tools for brainstorming, prototyping, and development. However, you are responsible for ensuring that any AI-generated content complies with all event rules and guidelines. Make sure to review and understand any AI-generated code or content you use in your project.
 ### What if I have a question or need help during the event?
-You can ask for help in the appropriate channels on Discord, attend mentor sessions, or approach event staff in person. We’re here to support you!
+You can ask for help in the appropriate channels on Discord, attend mentor sessions, or approach event staff in person. We're here to support you!
