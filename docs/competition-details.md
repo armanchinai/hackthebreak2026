@@ -69,6 +69,9 @@ Examples of previous mini challenges include:
 ---
 
 ## Collecting Your Prize
-Winners will be announced during the closing ceremony on Sunday. If you win a prize, you can collect it in person at the event or arrange for pickup with an organizer if you are unable to attend the closing ceremony.
+Winners will be announced during the closing ceremony on Sunday.
 
 Mini Challenge winners will be announced during the event, but will receive their prizes at the closing ceremony along with the main competition winners.
+
+!!! question "I won a prize but I am not able to attend the closing ceremony to receive it. What should I do?"
+    If you're a winner and are unable to attend the closing ceremony, please reach out to an organizer in the Discord help channel as soon as possible so we can make arrangements for you to receive your prize.
