@@ -23,7 +23,7 @@ We will have mentors available during the following times:
 - **Sunday**: 10:00 AM - 11:00 AM
 
 !!! question "Having trouble outside of mentor hours?"
-    If you need help outside of the scheduled mentor hours, you can still ask for help in the Discord mentor channel. While the organizers will always be present and happy to help.
+    If you need help outside of the scheduled mentor hours, you can still ask for help in the Discord mentor channel. The organizers will be present at all times and also will be mentoring participants in their free time.
 
 ### Mentor FAQ
 

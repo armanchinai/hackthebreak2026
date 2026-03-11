@@ -3,8 +3,6 @@
 Welcome to **HackTheBreak 2026**! 🎉  
 We're excited to have you join us for a weekend of building, learning, and collaborating with fellow BCIT students at HackTheBreak (HTB).
 
-HackTheBreak is a student-run hackathon where participants come together to build innovative projects, learn new technologies, and compete for prizes.
-
 This event would not be possible without the support of our sponsors, volunteers, and most importantly, our amazing hackers. Whether you're a seasoned hackathon veteran or attending your first event, we can't wait to see what you create at HTB 2026!
 
 Read on for important information about the event, including the schedule, location, team formation, and more.

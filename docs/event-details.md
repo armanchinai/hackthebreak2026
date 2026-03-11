@@ -9,7 +9,7 @@
 - **Cost:** 100% free for all participants
 
 !!! tip "First Time at a Hackathon?"
-    Don't worry if you've never attended a hackathon before! Beginners are welcome, and mentors will be available throughout the event to help you get started. HTB will also have workshops covering various topics to help you learn new skills and technologies. We even have a best beginner hack prize to encourage new hackers to participate!
+    Don't worry if you've never attended a hackathon before! Beginners are welcome, and mentors will be available throughout the event to help you get started. HTB will also have workshops covering various topics to help you learn new skills and technologies. For teams composed of mostly first semester students, we have a special beginner-friendly prize category to encourage you to give it a try and reward your efforts!
 
 ---
 
