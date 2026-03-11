@@ -125,9 +125,6 @@ In case of a non medical emergency, please contact:
 - **Arman Chinai (Event Organizer):** 
     - Phone: 778-513-0308
     - Discord: `@armanchinai`
-- **Bhavnoor Saroya (Event Organizer):** 
-    - Phone: 250-667-0653
-    - Discord: `@singh1`
 - **Campus Security:**
     - Phone: 604-451-6856
 
