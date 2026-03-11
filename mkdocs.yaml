@@ -23,6 +23,7 @@ theme:
     - content.code.copy
     - content.tabs.link
   logo: resources/htb.png
+  favicon: resources/htb.ico
 
 markdown_extensions:
   - admonition
