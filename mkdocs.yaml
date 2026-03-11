@@ -9,19 +9,20 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-      primary: deep purple
+      primary: deep orange
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-      primary: deep purple
+      primary: deep orange
   features:
     - search.highlight
     - search.suggest
     - content.code.copy
     - content.tabs.link
+  logo: resources/htb.png
 
 markdown_extensions:
   - admonition
@@ -34,6 +35,9 @@ plugins:
 
 nav:
   - Introduction: index.md
+  - Hacking Resources: hacking-resources.md
+  - Competition: competition.md
+  - Rules: rules.md
 
 extra:
   social:
