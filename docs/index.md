@@ -22,11 +22,11 @@ Read on for important information about the event, including the schedule, locat
 
 ## Quick Links
 
-These are the most important links you’ll need during the event.
+These are the important links you’ll need throughout the event:
 
 - **[Discord](https://discord.gg/BdTWfUJRKw)**
 - **Devpost (Project Submissions): TBA**
-- **[HTB Website](https://hackthebreak.com)**
+- **[HackTheBreak Website](https://hackthebreak.com)**
 
 !!! tip "Join the Discord"
     All announcements, mentor help, and team formation will happen on **Discord**. Make sure you join as soon as possible so you don’t miss important updates.
