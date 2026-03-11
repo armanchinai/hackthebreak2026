@@ -121,7 +121,7 @@ Please connect to the following WiFi network to access the internet during the e
 ## Emergency Contacts
 In case of a non medical emergency, please contact:
 
-- **Event Organizer (Arman Chinai):** `@armanchinai` on Discord or in person
+- **Arman Chinai (Event Organizer):** `@armanchinai` on Discord or in person
 - **Campus Security:** 604-451-6856
 
 !!! warning "For medical emergencies, please call 911 immediately."
