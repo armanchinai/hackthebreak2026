@@ -112,10 +112,14 @@ Going to miss check-in? Don't worry! You can check in virtually by completing a 
 
 ## WiFi Information
 
-Please connect to the following WiFi network to access the internet during the event:
+If you are a student, please connect to the following WiFi network to access the internet during the event:
 
 **Network:** eduroam or BCIT-Secure  
 **Authentication:** Use your BCIT email and password
+
+For guests or alumni who do not have BCIT credentials, please connect to the following network and complete the guest registration process to get internet access:
+
+**Network:** BCIT-Guest
 
 ---
 
@@ -143,7 +147,7 @@ HackTheBreak is made possible thanks to the support of our sponsors.
 | ![BCIT SoC](./resources/bcitsoc.jpg) | ![BCITSA](./resources/bcitsa.png) | ![BCIT Alumni Association](./resources/alumni.png) |
 |:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|
 | ![BCIT C4A](./resources/c4a.jpg) | ![BCIT WiC](./resources/wic.png) | ![BCIT CC](./resources/cc.jpg) |
-| ![Pratham](./resources/pratham.jpg) | ![nwPlus](./resources/nwplus.png) | ![POWRD](./resources/powrd.png) |
+| ![Pratham](./resources/pratham.png) | ![nwPlus](./resources/nwplus.png) | ![POWRD](./resources/powrd.png) |
 
 ---
 
