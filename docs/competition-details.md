@@ -21,10 +21,19 @@ We will be awarding prizes in the following categories:
 
 - **1st Place**: The best project overall, based on the judging criteria below.
 - **2nd Place**: The second-best project overall.
-- **3rd Place**: The third-best project overall.
 - **Best Beginner Hack**: The best project created by a team comprised of &ge;50% first-semester students. 
 - **Best Terminal Application**: The best project that is built for the terminal/command line interface.
 - **Best Solo Hack**: The best project created by a solo participant.
+
+---
+
+## Theme
+
+This year's theme is **Developer Tool**. We encourage you to build a project that helps developers be more productive, efficient, or creative. This could be a tool for code editing, debugging, deployment, collaboration, but it can also be something unproductive or fun (think VSCode Pets). The theme is meant to be a source of inspiration, not a strict requirement, so feel free to interpret it in your own way and build something that excites you!
+
+## Restriction
+
+This year's restriction is **Deployment**. Your project must be deployed and accessible to users in order to be eligible for judging. For this hackathon, we are defining deployed as "accessible to an end user". Deployment might look different for every project, from a web app hosted in the cloud to a terminal application with installation instructions. We encourage you to get creative with your deployment architecture and think about how users will interact with your project.
 
 ---
 
