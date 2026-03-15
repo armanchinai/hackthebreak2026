@@ -37,7 +37,38 @@ This year's restriction is **Deployment**. Your project must be deployed and acc
 
 ---
 
-## Judging Criteria
+## Submitting
+
+### Devpost
+
+You can submit your project on our Devpost page [here](https://hackthebreak2026.devpost.com/?_gl=1*s2womh*_gcl_au*MTk1MDQzNzY4OC4xNzczNTM1MTcz*_ga*MTQxMDU3OTM1NS4xNzM1OTc3NTQz*_ga_0YHJK3Y10M*czE3NzM1NDkyNTAkbzgkZzEkdDE3NzM1NDk0ODMkajQ4JGwwJGgw). Make sure to submit your project by the deadline on Sunday at 11:00 AM to be eligible for judging!
+
+
+### Submission Guidelines
+
+- Projects should include a clear description, screenshots or demo video, and any relevant links (e.g., GitHub repository).
+- Projects must include the number of team members and the number of 1st semester team members (if any). 
+- Projects must be built during the event timeframe (March 13-15, 2026).
+- Projects should not violate any laws, terms of service, or BCIT policies.
+- Plagiarism or academic misconduct will result in disqualification.
+- Projects must be appropriate for all audiences (no NSFW or offensive content).
+
+!!! warning "Project Submission Deadline"
+    All projects must be submitted on **Devpost by Sunday at 11:00 AM**. Late submissions may not be considered for judging. Consider submitting your project early if you're ready to avoid any last-minute issues!
+
+---
+
+## Judging
+
+### Judging Process
+
+Our judging process will consist of two rounds:
+1. **Preliminary Round**: All submitted projects will be reviewed by two groups of judges and scored based on the judging criteria below. Demos will last up to 3 minutes, followed by a 2-minute Q&A session with the judges. The top projects from this round will advance to the final round.
+2. **Final Round**: The finalists will present their projects to a panel of organizers during the closing ceremony. Demos will last up to 5 minutes, followed by a 2-minute Q&A session with the judges. The winners will be announced at the end of the closing ceremony.
+
+---
+
+### Judging Criteria
 
 Projects will be judged based on the following criteria:
 
@@ -49,19 +80,6 @@ Projects will be judged based on the following criteria:
 
 !!! tip "Judges"
     Our judges are all technical professionals and BCIT alumni! They love to code, and are excited to hear about your technical solutions and architecture. Lean into the technical details of your project and be prepared to answer questions about your code, design decisions, and deployment architecture during the judging Q&A.
-
----
-
-## Submission Guidelines
-
-- Projects should include a clear description, screenshots or demo video, and any relevant links (e.g., GitHub repository).
-- Projects must be built during the event timeframe (March 13-15, 2026).
-- Projects should not violate any laws, terms of service, or BCIT policies.
-- Plagiarism or academic misconduct will result in disqualification.
-- Projects must be appropriate for all audiences (no NSFW or offensive content).
-
-!!! warning "Project Submission Deadline"
-    All projects must be submitted on **Devpost by Sunday at 11:00 AM**. Late submissions may not be considered for judging. Consider submitting your project early if you're ready to avoid any last-minute issues!
 
 ---
 
